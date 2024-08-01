@@ -22,7 +22,45 @@ I am a Software Engineer passionate about software development, particularly in 
   - **Gmail**: umarr361farooq@gmail.com
   - **LinkedIn**: [Muhammad Umar Farooq](https://www.linkedin.com/in/m-umar-farooq-24h)
 
+## 📈 GitHub Stats
 
+![Umar's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmarFarooq361&show_icons=true&theme=radical)
+
+## 🔧 Skills
+
+### Programming Languages
+- Python
+- Java
+- JavaScript
+- C++
+- DBMS
+
+### Web Development/Frameworks
+- HTML, CSS
+- JavaScript
+- React.js
+- Next.js
+- Django
+- Bootstrap
+- Tailwind CSS
+- MongoDB
+
+### Developer Tools
+- Git
+- VS Code
+- Visual Studio
+- PyCharm
+- Anaconda
+- Google Colab
+- Jupyter Notebook
+
+### Soft Skills
+- Communication
+- Teamwork
+- Flexibility
+- Problem Solving
+- Time Management
+- Responsibility
 ## 📚 Education
 
 **Bachelor of Engineering in Software Engineering**  
