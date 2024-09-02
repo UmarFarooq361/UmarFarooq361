@@ -19,7 +19,7 @@ I am a Software Engineer passionate about software development, particularly in 
 - 💞️ I’m looking to collaborate or find onsite/remote job opportunities on projects related to my fields of interest.
 
 - 📫 Contact me at:
-  - **Gmail**: umarr361farooq@gmail.com
+  - **Gmail**: umar361farooq@gmail.com
   - **LinkedIn**: [Muhammad Umar Farooq](https://www.linkedin.com/in/m-umar-farooq-24h)
 
 ## 🔧 Skills
