@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Software Engineer passionate about software development, particularly in web development, Python, and machine learning. I graduated from the Military College of Signals, NUST, Rawalpindi, Pakistan. I have honed my skills through my degree, internships, and various projects.
+I am a Software Engineer passionate about software development, particularly in web development, Python, and machine learning. I graduated from the Military College of Signals, NUST, Pakistan. I have honed my skills through my degree, internships, and various projects.
 
 - 👀 I’m interested in:
   - Web Development
