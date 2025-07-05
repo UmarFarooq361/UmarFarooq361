@@ -61,5 +61,5 @@ I am a Software Engineer passionate about software development, particularly in 
 ## 📚 Education
 
 **Bachelor of Engineering in Software Engineering**  
-Military College of Signals – NUST, Rawalpindi, Pakistan  
+Military College of Signals – NUST, Pakistan  
 *2020 – 2024*
